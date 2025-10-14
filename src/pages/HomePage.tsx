@@ -315,7 +315,7 @@ export function HomePage() {
         </AnimatePresence>
       </main>
       <footer className="text-center py-8 text-muted-foreground/80">
-        <p>Built with ❤️ at Cloudflare</p>
+        <p>Built with ❤️ at ACM</p>
       </footer>
       <Toaster richColors closeButton />
     </div>

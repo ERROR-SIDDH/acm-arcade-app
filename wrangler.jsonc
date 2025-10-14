@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-acm-arcade-1ac255fe-9f85-4faf-9f53-d04bd9742847",
+	"name": "acm-arcade-app",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
